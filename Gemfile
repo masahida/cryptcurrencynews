@@ -14,6 +14,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
 gem 'jquery-rails'
 
+gem 'autoprefixer-rails'
+
 gem 'coffee-rails', '~> 4.2'
 
 gem 'turbolinks', '~> 5'
